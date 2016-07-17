@@ -1,0 +1,8 @@
+name: Magic
+author: FancyPlay, Lordizzel
+version: 0.1
+main: de.unkreativ.magic.Main
+commands:
+     Magic:
+          description: Macht etwas magisches
+          usage: </magic>
